@@ -300,6 +300,41 @@ strong{
 /* --------------------------------------------------------------------- */
 /* --------------------------------------------------------------------- */
 
+/* -----------Contacto------ */
+
+.tituloContacto{
+    font-family: 'Dela Gothic One', cursive !important;
+    color: #000000;
+}
+.imgSuperior{
+    border-radius: 20px !important;
+    height: 250px;
+    width: 500px;
+    
+}
+.imgContacto{
+
+    height: 20px;
+    width: 20px;
+    
+}
+.cajaContacto{
+    background-color: #ff00005b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px !important;
+}
+
+.botonContacto {
+    background-color: #000000;
+    border: none;
+    color:#ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    border-left: 200px;
+    float: right;
+}
+
 
 
 
